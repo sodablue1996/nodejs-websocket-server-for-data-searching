@@ -1,0 +1,27 @@
+{
+  "name": "googlespreadsheet",
+  "version": "1.0.0",
+  "description": "project by lisa",
+  "main": "ProductionDefinitions.js",
+  "dependencies": {
+    "async": "^2.0.1",
+    "google-spreadsheet": "^2.0.3",
+    "jsonfile": "^2.3.1",
+    "lodash": "^4.14.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sodablue1996/nodejs-websocket-server-for-data-searching.git"
+  },
+  "author": "Lisa Tian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sodablue1996/nodejs-websocket-server-for-data-searching/issues"
+  },
+  "homepage": "https://github.com/sodablue1996/nodejs-websocket-server-for-data-searching#readme"
+}
